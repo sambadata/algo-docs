@@ -62,14 +62,14 @@ L'affection se fait de la droite vers la gauche
 
 Affecter le prénom 'John' à la variable 'prenom' :
 
-```
+```javascript
 prenom <- John 
 ```
 
 ## Instructions conditionnelles
 
 **Instruction avec une condition** 
-``` 
+```javascript 
 Si condition alors
 	instructions
 Fin Si
@@ -77,7 +77,7 @@ Fin Si
 
 **Instruction avec deux conditions** 
 
-``` 
+```javascript 
 Si condition alors
 	instructions 1
 Sinon
@@ -114,7 +114,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzYyNTM1MywtMTg2NzkwNTgyLDkxMz
+eyJoaXN0b3J5IjpbMjA2MTEyNjE2NiwtMTg2NzkwNTgyLDkxMz
 Q2OTUwNCwyMTQyNTA1NzAwLDEyOTIyNTM0NjcsLTM1OTgzMDQ3
 NiwxOTk3NDAwNDgwLDIwNDc2NTU5OTEsMTIyMTAzODAwMywxNT
 E3MTA5MTQxXX0=
