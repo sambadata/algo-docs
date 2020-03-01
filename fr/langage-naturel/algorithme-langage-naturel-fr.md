@@ -86,7 +86,7 @@ Fin Si
 ``` 
 **Instruction avec plusieurs conditions** 
 
-``` 
+```javascript 
 Si condition alors
 	instructions 1
 Sinon si condition alors
@@ -114,8 +114,8 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTEyNjE2NiwtMTg2NzkwNTgyLDkxMz
-Q2OTUwNCwyMTQyNTA1NzAwLDEyOTIyNTM0NjcsLTM1OTgzMDQ3
-NiwxOTk3NDAwNDgwLDIwNDc2NTU5OTEsMTIyMTAzODAwMywxNT
-E3MTA5MTQxXX0=
+eyJoaXN0b3J5IjpbNzg1NjgyNzYxLC0xODY3OTA1ODIsOTEzND
+Y5NTA0LDIxNDI1MDU3MDAsMTI5MjI1MzQ2NywtMzU5ODMwNDc2
+LDE5OTc0MDA0ODAsMjA0NzY1NTk5MSwxMjIxMDM4MDAzLDE1MT
+cxMDkxNDFdfQ==
 -->
