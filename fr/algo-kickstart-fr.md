@@ -18,7 +18,7 @@ En écrivant, dans un premier temps, nos programmes en langue française (ou ang
 
 ### Algorithme en langage informatique
 
-Les algorithmes peuvent être écrits en *langage informatique* c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter (comprendre).
+Les algorithmes peuvent être également écrits en *langage informatique* c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter (comprendre).
 
 ### Programmation
 C''est une activité qui consiste à créer un script (programme) dans un langage informatique pouvant être compris et utilisé par un ordinateur : Python, Javascript, etc.
@@ -46,5 +46,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzMxMjQ5Niw2MDM3OTE5ODBdfQ==
+eyJoaXN0b3J5IjpbNzczNDk2NTU0LDYwMzc5MTk4MF19
 -->
