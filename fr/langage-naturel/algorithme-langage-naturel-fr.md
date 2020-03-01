@@ -42,10 +42,10 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 variable <--- donnée à mémoriser  
 ``` 
 - Exemple :
+```
 prenom <-- John 
-
-**Description** 
-Affecte le prénom "John" à la variable prenom |
+Affecte le prénom "John" à la variable prenom
+```
 
 ## Instructions conditionnelles
 
@@ -94,7 +94,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc0MzEzMjgsLTM1OTgzMDQ3NiwxOT
-k3NDAwNDgwLDIwNDc2NTU5OTEsMTIyMTAzODAwMywxNTE3MTA5
-MTQxXX0=
+eyJoaXN0b3J5IjpbLTQzNDE2NTA3OCwtMzU5ODMwNDc2LDE5OT
+c0MDA0ODAsMjA0NzY1NTk5MSwxMjIxMDM4MDAzLDE1MTcxMDkx
+NDFdfQ==
 -->
