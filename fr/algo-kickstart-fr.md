@@ -16,7 +16,7 @@ Série d'actions toujours créée à l'aide de la combinaison de  **quatre comma
 
 ## Langage des algorithmes
 
-### Algorithme en langage naturel
+### Langage naturel
 
 Les algorithmes peuvent être écrits en *langage naturel* (anglais, français, etc.) c'est à dire compréhensible facilement par une personne non experte en programmation (client, lecteur d'un article, etc.). 
 
@@ -24,7 +24,7 @@ Quand on écrit de l'algorithmique en langage naturel, on ne dépend pas de la s
 
 En écrivant d'abord nos algorithmes en langage naturel, on peut mieux comprendre leur finalité et donc les programmer plus facilement par la suite, avec le langage informatique de notre choix.
 
-### Algorithme en langage informatique
+### Langage informatique
 
 Les algorithmes peuvent être également écrits en *langage informatique* c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter (comprendre).
 
@@ -55,6 +55,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDI3Nzc3MSw3NzM0OTY1NTQsNjAzNz
-kxOTgwXX0=
+eyJoaXN0b3J5IjpbLTEzNTk4Mjg3NTcsMTIwMDI3Nzc3MSw3Nz
+M0OTY1NTQsNjAzNzkxOTgwXX0=
 -->
