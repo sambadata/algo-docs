@@ -42,8 +42,9 @@ Debut						 // bloc de traitement
 Fin
 ```
 - **Remarque** :
-Chaque ligne comporte une seule instruction
-**//** permet d'ajouter un commentaire
+	- Chaque ligne comporte une seule instruction
+	- la notation **//** permet d'ajouter un commentaire
+	- Un bloc d'instruction 
 
 
 ## Affection de variable
@@ -112,7 +113,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYyNDgwMDgsLTE4Njc5MDU4Miw5MT
+eyJoaXN0b3J5IjpbLTEwOTIyNjE4MzIsLTE4Njc5MDU4Miw5MT
 M0Njk1MDQsMjE0MjUwNTcwMCwxMjkyMjUzNDY3LC0zNTk4MzA0
 NzYsMTk5NzQwMDQ4MCwyMDQ3NjU1OTkxLDEyMjEwMzgwMDMsMT
 UxNzEwOTE0MV19
