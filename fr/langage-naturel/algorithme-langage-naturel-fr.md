@@ -35,8 +35,9 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 ## Cheatsheet
 
 ## Affection de variable
-'''
-nom <--- John  
+```smalltalk
+nom <--- John
+```
 
 
 
@@ -58,5 +59,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjcxOTY2MCwxNTE3MTA5MTQxXX0=
+eyJoaXN0b3J5IjpbMTY2NDMzMDgwNCwxNTE3MTA5MTQxXX0=
 -->
