@@ -87,6 +87,8 @@ Cette deuxième version n’est donc pas seulement plus simple à écrire et plu
 
 Les structures de tests imbriqués sont donc un outil indispensable à la simplification et à l’optimisation des algorithmes.
 
+Les structures conditionnelles imbriquées rendent les algorithmes plus simples à écrire, optimisés et 
+
 
 ## Contact
 
@@ -102,7 +104,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDEyMzQ2LDEyOTIyNTM0NjcsLTM1OT
-gzMDQ3NiwxOTk3NDAwNDgwLDIwNDc2NTU5OTEsMTIyMTAzODAw
-MywxNTE3MTA5MTQxXX0=
+eyJoaXN0b3J5IjpbLTEyMzg5Nzc4MCwxMjkyMjUzNDY3LC0zNT
+k4MzA0NzYsMTk5NzQwMDQ4MCwyMDQ3NjU1OTkxLDEyMjEwMzgw
+MDMsMTUxNzEwOTE0MV19
 -->
