@@ -4,11 +4,11 @@
 
 ### Algorithme
 
-Série ordonnée d’*instructions* élémentaire pour aboutir à un résultat final donné répondant à un problème.
+Un algorithme est une série ordonnée d’*instructions* élémentaire pour aboutir à un résultat final donné répondant à un problème.
 
 ### Instruction
 
-Série d'actions toujours créée à l'aide de la combinaison de  **quatre commandes de base** :
+Une instruction représente une série d'actions toujours créée à l'aide de la combinaison de  **quatre commandes de base** :
 - affectation de variables
 - action de lecture / écriture
 - tests
@@ -100,7 +100,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA4OTE0NzUsMjE0MjUwNTcwMCwxMj
-kyMjUzNDY3LC0zNTk4MzA0NzYsMTk5NzQwMDQ4MCwyMDQ3NjU1
-OTkxLDEyMjEwMzgwMDMsMTUxNzEwOTE0MV19
+eyJoaXN0b3J5IjpbMTY2MjUwNjA0NywyMTQyNTA1NzAwLDEyOT
+IyNTM0NjcsLTM1OTgzMDQ3NiwxOTk3NDAwNDgwLDIwNDc2NTU5
+OTEsMTIyMTAzODAwMywxNTE3MTA5MTQxXX0=
 -->
