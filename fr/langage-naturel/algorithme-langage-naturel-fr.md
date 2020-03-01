@@ -36,11 +36,14 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 
 ## Affection de variable
 
-**Commande**
+**instruction d'affectation**
 
 ``` 
 variable <--- donnée à mémoriser  
 ``` 
+- Exemple :
+prenom <-- John 
+
 **Description** 
 Affecte le prénom "John" à la variable prenom |
 
@@ -91,7 +94,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM0MjEyOTgsLTM1OTgzMDQ3NiwxOT
+eyJoaXN0b3J5IjpbLTEzMDc0MzEzMjgsLTM1OTgzMDQ3NiwxOT
 k3NDAwNDgwLDIwNDc2NTU5OTEsMTIyMTAzODAwMywxNTE3MTA5
 MTQxXX0=
 -->
