@@ -58,9 +58,6 @@ Si condition alors
 	Instructions 1
 Sinon
 	Instructions 2
-...
-sinon
-	Instructions 3
 Fin Si
 ``` 
 
@@ -81,6 +78,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkzNDE1MjUsMjA0NzY1NTk5MSwxMj
-IxMDM4MDAzLDE1MTcxMDkxNDFdfQ==
+eyJoaXN0b3J5IjpbMTk5NzQwMDQ4MCwyMDQ3NjU1OTkxLDEyMj
+EwMzgwMDMsMTUxNzEwOTE0MV19
 -->
