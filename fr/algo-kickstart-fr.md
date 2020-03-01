@@ -9,10 +9,10 @@ Série d’*instructions* ordonnées pour aboutir à un résultat donné.
 ### Instruction
 
 Série d'actions toujours créée à l'aide de la combinaison de  **quatre commandes de base** :
-	- affectation de variables
-	-  action de lecture / écriture
-	- tests
-	- boucles
+- affectation de variables
+- action de lecture / écriture
+- tests
+- boucles
 
 ## Langage des algorithmes
 
@@ -55,6 +55,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk4Mjg3NTcsMTIwMDI3Nzc3MSw3Nz
-M0OTY1NTQsNjAzNzkxOTgwXX0=
+eyJoaXN0b3J5IjpbMTUxNzEwOTE0MSwxMjAwMjc3NzcxLDc3Mz
+Q5NjU1NCw2MDM3OTE5ODBdfQ==
 -->
