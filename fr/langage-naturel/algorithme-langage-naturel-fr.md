@@ -34,6 +34,10 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 
 ## Cheatsheet
 
+## Structure d'un algorithme
+``
+Algorithme
+
 ## Affection de variable
 
 **instruction d'affectation**
@@ -100,7 +104,8 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc5MDU4Miw5MTM0Njk1MDQsMjE0Mj
-UwNTcwMCwxMjkyMjUzNDY3LC0zNTk4MzA0NzYsMTk5NzQwMDQ4
-MCwyMDQ3NjU1OTkxLDEyMjEwMzgwMDMsMTUxNzEwOTE0MV19
+eyJoaXN0b3J5IjpbLTEzMjI5OTMzODcsLTE4Njc5MDU4Miw5MT
+M0Njk1MDQsMjE0MjUwNTcwMCwxMjkyMjUzNDY3LC0zNTk4MzA0
+NzYsMTk5NzQwMDQ4MCwyMDQ3NjU1OTkxLDEyMjEwMzgwMDMsMT
+UxNzEwOTE0MV19
 -->
