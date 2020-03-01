@@ -49,7 +49,7 @@ Affecte le prénom "John" à la variable prenom |
 **Instruction avec une condition** 
 ``` 
 Si condition alors
-	Instructions
+	instructions
 Fin Si
 ```   
 
@@ -57,21 +57,21 @@ Fin Si
 
 ``` 
 Si condition alors
-	Instructions 1
+	instructions 1
 Sinon
-	Instructions 2
+	instructions 2
 Fin Si
 ``` 
 **Instruction avec plusieurs conditions** 
 
 ``` 
 Si condition alors
-	Instructions 1
+	instructions 1
 Sinon
-	Instructions 2
+	instructions 2
 ...
 Sinon
-	Instructions finales
+	instructions finales
 Fin Si
 ``` 
 
@@ -91,6 +91,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTgzMDQ3NiwxOTk3NDAwNDgwLDIwND
-c2NTU5OTEsMTIyMTAzODAwMywxNTE3MTA5MTQxXX0=
+eyJoaXN0b3J5IjpbNDk4Mzk5Mjg0LC0zNTk4MzA0NzYsMTk5Nz
+QwMDQ4MCwyMDQ3NjU1OTkxLDEyMjEwMzgwMDMsMTUxNzEwOTE0
+MV19
 -->
