@@ -83,6 +83,9 @@ Sinon
 Fin Si
 ``` 
 
+Cette deuxième version n’est donc pas seulement plus simple à écrire et plus lisible, elle est également plus performante à l’exécution.
+
+Les structures de tests imbriqués sont donc un outil indispensable à la simplification et à l’optimisation des algorithmes.
 
 
 ## Contact
@@ -99,7 +102,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjI1MzQ2NywtMzU5ODMwNDc2LDE5OT
-c0MDA0ODAsMjA0NzY1NTk5MSwxMjIxMDM4MDAzLDE1MTcxMDkx
-NDFdfQ==
+eyJoaXN0b3J5IjpbMTk0NDEyMzQ2LDEyOTIyNTM0NjcsLTM1OT
+gzMDQ3NiwxOTk3NDAwNDgwLDIwNDc2NTU5OTEsMTIyMTAzODAw
+MywxNTE3MTA5MTQxXX0=
 -->
