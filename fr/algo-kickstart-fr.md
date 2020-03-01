@@ -1,4 +1,4 @@
-# Les bases de l'algorithmique
+# Algorithme en langage naturel
 
 ## Définitions
 
@@ -49,6 +49,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzMzQwNCw3NzM0OTY1NTQsNjAzNz
-kxOTgwXX0=
+eyJoaXN0b3J5IjpbLTEzNTcxNDIwNzQsNzczNDk2NTU0LDYwMz
+c5MTk4MF19
 -->
