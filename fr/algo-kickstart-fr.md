@@ -1,8 +1,8 @@
 # Les bases de l'algorithmique
 
 ## Définitions
-- **Algorithme** : Suite d’**instructions** ordonnées pour arriver à un résultat donné.
-- **Instruction** : Série d'actions toujours créée à l'aide de la combinaisons de  quatre commandes de base :
+- **Algorithme** : Suite d’*instructions* ordonnées pour arriver à un résultat donné.
+- **Instruction** : Série d'actions toujours créée à l'aide de la combinaison de  *quatre commandes de base* :
 	1. Affectation de variables
 	2. Action de lecture / écriture
 	3. Tests
@@ -32,5 +32,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjQ2MTIxMSw2MDM3OTE5ODBdfQ==
+eyJoaXN0b3J5IjpbNjI2MDg3ODE0LDYwMzc5MTk4MF19
 -->
