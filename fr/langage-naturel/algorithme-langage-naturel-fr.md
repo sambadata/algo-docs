@@ -32,6 +32,8 @@ Les algorithmes peuvent être également écrits en *langage informatique* c'est
 
 C''est une activité qui consiste à créer un script (programme) dans un langage informatique pouvant être compris et utilisé par un ordinateur : Python, Javascript, etc.
 
+## 
+
 
 
 
@@ -55,5 +57,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzEwOTE0MV19
+eyJoaXN0b3J5IjpbLTExMDM1MjgwODMsMTUxNzEwOTE0MV19
 -->
