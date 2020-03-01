@@ -10,13 +10,13 @@
 
 ## Langage des algorithmes
 ### Algorithme en langage naturel
-Les algorithmes peuvent être écrits en *langage naturel* (anglais, français, etc.) c'est à dire compréhensible facilement par une personne non experte en programmation (client, lecteur d'un article, etc.)
+Les algorithmes peuvent être écrits en *langage naturel* (anglais, français, etc.) c'est à dire compréhensible facilement par une personne non experte en programmation (client, lecteur d'un article, etc.). Quand on écrit de
 
 ### Algorithme en langage informatique
 
-Les algorithmes peuvent être écrits en *langage informatique* c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter.
+Les algorithmes peuvent être écrits en *langage informatique* c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter (comprendre).
 
-###Programmation
+### Programmation
 C''est une activité qui consiste à créer un script (programme) dans un langage informatique pouvant être compris et utilisé par un ordinateur : Python, Javascript, etc.
 
 
@@ -42,5 +42,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgyMjE1ODUsNjAzNzkxOTgwXX0=
+eyJoaXN0b3J5IjpbMTY2OTI3MzUxNyw2MDM3OTE5ODBdfQ==
 -->
