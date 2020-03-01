@@ -42,7 +42,7 @@ Debut						 // bloc de traitement
 Fin
 ```
 - **Remarque** :
-	- Un bloc d'instructions correspond à une partie de traitement de l'algorithme
+	- Un **bloc d'instructions** correspond à une partie de traitement de l'algorithme composé d
 	- Chaque ligne comporte une seule instruction
 	- la notation **//** permet d'ajouter un commentaire
 
@@ -114,8 +114,8 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDg2Mjc3LC0xODY3OTA1ODIsOTEzND
-Y5NTA0LDIxNDI1MDU3MDAsMTI5MjI1MzQ2NywtMzU5ODMwNDc2
-LDE5OTc0MDA0ODAsMjA0NzY1NTk5MSwxMjIxMDM4MDAzLDE1MT
-cxMDkxNDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTg3MjQ1MzMsLTE4Njc5MDU4Miw5MT
+M0Njk1MDQsMjE0MjUwNTcwMCwxMjkyMjUzNDY3LC0zNTk4MzA0
+NzYsMTk5NzQwMDQ4MCwyMDQ3NjU1OTkxLDEyMjEwMzgwMDMsMT
+UxNzEwOTE0MV19
 -->
