@@ -8,7 +8,8 @@
 	3. *tests*
 	4. *boucles*
 
-## Le la
+## Langage des algorithmes
+Les algorithmes peuvent être écrits en langage naturel (Anglais, Français, etc.) compréhensible facilement par une personne non experte
 
 
 
@@ -34,5 +35,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTE2ODA5LDYwMzc5MTk4MF19
+eyJoaXN0b3J5IjpbNTY0NjcxODY3LDYwMzc5MTk4MF19
 -->
