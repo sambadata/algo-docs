@@ -3,10 +3,10 @@
 ## Définitions
 - **Algorithme** : Suite d’**instructions** ordonnées pour arriver à un résultat donné.
 - **Instruction** : Série d'actions (commandes) toujours créée à l'aide de la combinaisons de  quatre blocs de base :
-	- l’affectation de variables
-	- la lecture / écriture
-	- les tests
-	- les boucles
+	1. Affectation de variables
+	2. Command de lecture / écriture
+	3. Tests
+	4. Boucles
 
 
 
@@ -32,5 +32,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTk5NDI0NCw2MDM3OTE5ODBdfQ==
+eyJoaXN0b3J5IjpbLTcxNDY5MzYzNiw2MDM3OTE5ODBdfQ==
 -->
