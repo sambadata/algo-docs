@@ -12,7 +12,7 @@
 ### Algorithme en langage naturel
 Les algorithmes peuvent être écrits en *langage naturel* (anglais, français, etc.) c'est à dire compréhensible facilement par une personne non experte en programmation (client, lecteur d'un article, etc.). 
 
-Quand on écrit de l'algorithmique en langage naturel, on peut se passer et surtout on ne dépend pas d'un langage informatique comme Python, par exemple. 
+Quand on écrit de l'algorithmique en langage naturel, on peut se passer et ne pas dépendre de la syntaxe d'un langage informatique comme Python, par exemple. 
 
 En écrivant, dans un premier temps, nos programmes en langue française (ou anglaise, etc.) avec très peu de syntaxe spécifique, on peut mieux comprendre leur finalité et donc les programmer plus facilement par la suite avec le langage informatique de notre choix.
 
@@ -46,5 +46,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk4MTY2NjAsNjAzNzkxOTgwXX0=
+eyJoaXN0b3J5IjpbMTAwMzMxMjQ5Niw2MDM3OTE5ODBdfQ==
 -->
