@@ -2,7 +2,19 @@
 
 ## Définitions
 - **Algorithme** : Suite d’**instructions** ordonnées pour arriver à un résultat donné.
-- **Instruction** : Série d'actions (commandes) incluant des mots-clés et des  
+- **Instruction** : Série d'actions (commandes) incluant des mots-clés et des sturtures logiques (condition, boucle d'itérations, etc.) 
+
+
+
+
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2Njc2MDUzLDYwMzc5MTk4MF19
+eyJoaXN0b3J5IjpbLTE1ODc3NDM0NzAsNjAzNzkxOTgwXX0=
 -->
