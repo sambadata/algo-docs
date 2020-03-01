@@ -75,7 +75,7 @@ Fin Si
 ``` 
 Si condition alors
 	instructions 1
-Sinon
+Sinon si condition alors
 	instructions 2
 ...
 Sinon
@@ -100,7 +100,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNDY5NTA0LDIxNDI1MDU3MDAsMTI5Mj
-I1MzQ2NywtMzU5ODMwNDc2LDE5OTc0MDA0ODAsMjA0NzY1NTk5
-MSwxMjIxMDM4MDAzLDE1MTcxMDkxNDFdfQ==
+eyJoaXN0b3J5IjpbLTE4Njc5MDU4Miw5MTM0Njk1MDQsMjE0Mj
+UwNTcwMCwxMjkyMjUzNDY3LC0zNTk4MzA0NzYsMTk5NzQwMDQ4
+MCwyMDQ3NjU1OTkxLDEyMjEwMzgwMDMsMTUxNzEwOTE0MV19
 -->
