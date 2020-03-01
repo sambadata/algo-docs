@@ -36,10 +36,12 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 
 ## Affection de variable
 
-**Commande** :
-prenom <--- John  
+**Commande**
 
-**Description** :
+``` 
+prenom <--- John  
+``` 
+**Description** 
 Affecte le prénom "John" à la variable prenom |
 
 ## Instructions conditionnelles
@@ -89,6 +91,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3MzA1ODk4LDE5OTc0MDA0ODAsMjA0Nz
-Y1NTk5MSwxMjIxMDM4MDAzLDE1MTcxMDkxNDFdfQ==
+eyJoaXN0b3J5IjpbLTM1OTgzMDQ3NiwxOTk3NDAwNDgwLDIwND
+c2NTU5OTEsMTIyMTAzODAwMywxNTE3MTA5MTQxXX0=
 -->
