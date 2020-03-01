@@ -35,9 +35,12 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 ## Cheatsheet
 
 ## Affection de variable
-|        commande        | description            |
-|------------------------|------------------------|
-|prenom <--- John | Affecte le prénom "John" à la variable prenom |
+
+**Commande** :
+prenom <--- John  
+
+**Description** :
+Affecte le prénom "John" à la variable prenom |
 
 ## Instructions conditionnelles
 
@@ -78,6 +81,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzQwMDQ4MCwyMDQ3NjU1OTkxLDEyMj
-EwMzgwMDMsMTUxNzEwOTE0MV19
+eyJoaXN0b3J5IjpbNDQ5MDYwMzAsMTk5NzQwMDQ4MCwyMDQ3Nj
+U1OTkxLDEyMjEwMzgwMDMsMTUxNzEwOTE0MV19
 -->
