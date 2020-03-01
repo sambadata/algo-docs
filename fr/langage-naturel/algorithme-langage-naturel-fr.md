@@ -8,7 +8,7 @@ Un algorithme est une série ordonnée d’*instructions* élémentaire pour abo
 
 ### Instruction
 
-Une instruction regroupe un ensemble d'action(s) créé à l'aide de la combinaison de  **quatre commandes de base** :
+Une instruction regroupe une action ou une série d'actions créée à l'aide de la combinaison de  **quatre commandes de base** :
 - affectation de variables
 - action de lecture / écriture
 - tests
@@ -100,7 +100,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNDU2ODIwLDIxNDI1MDU3MDAsMTI5Mj
-I1MzQ2NywtMzU5ODMwNDc2LDE5OTc0MDA0ODAsMjA0NzY1NTk5
-MSwxMjIxMDM4MDAzLDE1MTcxMDkxNDFdfQ==
+eyJoaXN0b3J5IjpbLTY0NDc1OTQ4MCwyMTQyNTA1NzAwLDEyOT
+IyNTM0NjcsLTM1OTgzMDQ3NiwxOTk3NDAwNDgwLDIwNDc2NTU5
+OTEsMTIyMTAzODAwMywxNTE3MTA5MTQxXX0=
 -->
