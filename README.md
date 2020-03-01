@@ -1,4 +1,4 @@
-# Ressources about 
+# Resources about Algorithm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk5MDg2OTRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODIzNDQ3OTZdfQ==
 -->
