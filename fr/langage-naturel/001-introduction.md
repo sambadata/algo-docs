@@ -59,7 +59,7 @@ variable <- donnée à mémoriser
 	- L'affection se fait de la droite vers la gauche
 	- Une **variable** a **un nom et un type unique**
 	- Une variable stocke une valeur dans un emplacement mémoire
-	- La valeur stockée dans la variable est modifiée au cours du traitement déclenché par la lecture de l'algorithme
+	- La valeur stockée dans la variable est modifiée au cours du traitement lors de la lecture de l'algorithme
 
 - **Exemple** :
 
@@ -117,5 +117,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MDI4NTE5LDE2MTkyNjg5MzJdfQ==
+eyJoaXN0b3J5IjpbMTgzNDczMDk2OCw0NTkwMjg1MTksMTYxOT
+I2ODkzMl19
 -->
