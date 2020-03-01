@@ -39,15 +39,17 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 **instruction d'affectation**
 
 ``` 
-variable <--- donnée à mémoriser  
+variable <- donnée à mémoriser  
 ``` 
 - **Remarque** :
 L'affection se fait de la droite vers la gauche
 
 - **Exemple** :
+
+Affecter le prénom 'John' à la variable 'prenom' :
+
 ```
-# Affecter le prénom "John" à la variable prenom
-prenom <-- John 
+prenom <- John 
 ```
 
 ## Instructions conditionnelles
@@ -97,7 +99,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODk0OTY5OSwtMzU5ODMwNDc2LDE5OT
+eyJoaXN0b3J5IjpbMTI5MjI1MzQ2NywtMzU5ODMwNDc2LDE5OT
 c0MDA0ODAsMjA0NzY1NTk5MSwxMjIxMDM4MDAzLDE1MTcxMDkx
 NDFdfQ==
 -->
