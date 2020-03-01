@@ -1,7 +1,8 @@
 # Les bases de l'algorithmique
 
-## Définition d'un alogorithme
-Un algorithme est une suite d’instructions ordonnées pour arriver à un résultat donné
+## Définitions
+- **Algorithme** : Suite d’**instructions** ordonnées pour arriver à un résultat donné.
+Une **nstruction** est 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODk2NzY5Miw2MDM3OTE5ODBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDczMDAzODEsNjAzNzkxOTgwXX0=
 -->
