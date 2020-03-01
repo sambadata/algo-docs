@@ -15,7 +15,9 @@ Les algorithmes peuvent être écrits en *langage naturel* (anglais, français, 
 ### Algorithme en langage informatique
 
 Les algorithmes peuvent être écrits en *langage informatique* (python, javascript, etc.) c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter.
-Cette activité relève de la programmation qui consiste à créer un script (programme) dans un langage informatique pouvant être comp
+
+###Programmation
+C''est une activité qui consiste à créer un script (programme) dans un langage informatique pouvant être compris et employer par un ordinateur.
 
 
 
@@ -40,5 +42,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTk4NTQ3OCw2MDM3OTE5ODBdfQ==
+eyJoaXN0b3J5IjpbOTMxMTY0MzIsNjAzNzkxOTgwXX0=
 -->
