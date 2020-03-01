@@ -56,7 +56,8 @@ Fin
 variable <- donnée à mémoriser  
 ``` 
 - **Remarque** :
-L'affection se fait de la droite vers la gauche
+	- Une variable stocke une valeur dans un emplacement 
+	- L'affection se fait de la droite vers la gauche
 
 - **Exemple** :
 
@@ -114,5 +115,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTI2ODkzMl19
+eyJoaXN0b3J5IjpbMTgzODYwNzUxMCwxNjE5MjY4OTMyXX0=
 -->
