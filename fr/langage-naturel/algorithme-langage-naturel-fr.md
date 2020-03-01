@@ -44,17 +44,14 @@ Affecte le prénom "John" à la variable prenom |
 
 ## Instructions conditionnelles
 
-|        commande        | description            |
-|------------------------|------------------------|
-|ssd| Affecte le prénom "John" à la variable prenom |
-
-
-
+**Instruction avec une condition** :
 ``` 
 Si condition alors
 	Instructions
 Fin Si
-``` 
+```   
+
+**Instruction avec deux conditions** :
 
 ``` 
 Si condition alors
@@ -63,7 +60,16 @@ Sinon
 	Instructions 2
 Fin Si
 ``` 
+**Instruction avec plusieurs conditions** :
 
+``` 
+Si condition alors
+	Instructions 1
+	
+Sinon
+	Instructions finales
+Fin Si
+``` 
 
 
 
@@ -81,6 +87,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MDYwMzAsMTk5NzQwMDQ4MCwyMDQ3Nj
-U1OTkxLDEyMjEwMzgwMDMsMTUxNzEwOTE0MV19
+eyJoaXN0b3J5IjpbNjM2NjM1Nzc0LDE5OTc0MDA0ODAsMjA0Nz
+Y1NTk5MSwxMjIxMDM4MDAzLDE1MTcxMDkxNDFdfQ==
 -->
