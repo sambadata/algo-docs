@@ -37,7 +37,7 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 ## Structure d'un algorithme
 ```
 Algorithme nom_algorithme    // bloc d'en-tête indiquant le nom de l'agorithme
-Debut	                   // bloc de traitement où le bloc d'instructions est situé entre Debut et Fin
+Debut	                  // bloc de traitement où le bloc d'instructions est situé entre Debut et Fin
 	bloc d'instructions      // chaque ligne comporte une seule instruction
 Fin
 ```
@@ -114,7 +114,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjI2NTYzOCwtMTg2NzkwNTgyLDkxMz
+eyJoaXN0b3J5IjpbMTMxNzUzODE5OCwtMTg2NzkwNTgyLDkxMz
 Q2OTUwNCwyMTQyNTA1NzAwLDEyOTIyNTM0NjcsLTM1OTgzMDQ3
 NiwxOTk3NDAwNDgwLDIwNDc2NTU5OTEsMTIyMTAzODAwMywxNT
 E3MTA5MTQxXX0=
