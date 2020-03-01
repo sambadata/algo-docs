@@ -43,11 +43,15 @@ C''est une activité qui consiste à créer un script (programme) dans un langag
 
 |        commande        | description            |
 |------------------------|------------------------|
-|``` Si condition alors ``` | Affecte le prénom "John" à la variable prenom |
+|ssd| Affecte le prénom "John" à la variable prenom |
 
 
 
-
+``` 
+Si condition alors
+	Instructions
+Fin Si
+``` 
 
 
 
@@ -66,6 +70,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjE3NTE4OSwxMjIxMDM4MDAzLDE1MT
+eyJoaXN0b3J5IjpbMjA0NzY1NTk5MSwxMjIxMDM4MDAzLDE1MT
 cxMDkxNDFdfQ==
 -->
