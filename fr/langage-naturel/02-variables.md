@@ -9,7 +9,7 @@ Quand on a besoin d'accéder au contenu de la boîte, il suffit d'invoquer son �
 
 ## Déclaration de variable
 
-En se basant sur l'exemple de la boite, déclarer une variable consiste à créer une boite (réserver un emplacement mémoire disque) et coller une étiquette dessus.
+En se basant sur l'exemple de la boite, déclarer une variable consiste à créer une boite (réserver un emplacement en mémoire disque) et coller une étiquette dessus.
 
 On doit toujours déclarer une variable avant de pouvoir l'utiliser.
 
@@ -48,6 +48,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzY4ODg3MSw2MTc1NTcyNjcsMTQxOD
-Y2NzU1MywtMjA0NjQ1OTQxNCwtMTE3NDYzNTYyNV19
+eyJoaXN0b3J5IjpbLTE0MDA2NzM5NiwxNzYzNjg4ODcxLDYxNz
+U1NzI2NywxNDE4NjY3NTUzLC0yMDQ2NDU5NDE0LC0xMTc0NjM1
+NjI1XX0=
 -->
