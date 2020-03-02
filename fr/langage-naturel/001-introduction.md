@@ -91,13 +91,13 @@ FinSi
 
 ```javascript 
 Si condition Alors
-	instructions 1
+   instructions 1
 SinonSi condition Alors
-	instructions 2
+   instructions 2
 SinonSi condition Alors
-	instructions 3
+   instructions 3
 SinonSi condition Alors
-	instructions 4
+   instructions 4
 FinSi
 ``` 
 - **Remarque** :
@@ -121,7 +121,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDA0NzQxMywtNDk1MTY4Mjg3LDE4NT
-A5MjUwMDMsLTMzMTQ2OTM0LDQ1OTAyODUxOSwxNjE5MjY4OTMy
-XX0=
+eyJoaXN0b3J5IjpbMTAxMzE0Nzk4MSwxNjQwMDQ3NDEzLC00OT
+UxNjgyODcsMTg1MDkyNTAwMywtMzMxNDY5MzQsNDU5MDI4NTE5
+LDE2MTkyNjg5MzJdfQ==
 -->
