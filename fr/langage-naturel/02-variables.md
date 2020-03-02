@@ -1,7 +1,7 @@
   
 # Variables
 
-En programmation, lorsque l'on a besoin de stocker temporairement des valeurs, on utilise des variables.
+En programmation, lorsqu'on a besoin de stocker temporairement des valeurs, on utilise des variables.
 
 On peut comparer une variable à une boîte que l'on reconnaît grâce à une étiquette collée dessus. 
 
@@ -32,6 +32,6 @@ Autrement dit, cela va permettre de définir au moment de la déclaration de la 
 
 (to do)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkxMzMwMjQsMTQxODY2NzU1MywtMj
-A0NjQ1OTQxNCwtMTE3NDYzNTYyNV19
+eyJoaXN0b3J5IjpbNjE3NTU3MjY3LDE0MTg2Njc1NTMsLTIwND
+Y0NTk0MTQsLTExNzQ2MzU2MjVdfQ==
 -->
