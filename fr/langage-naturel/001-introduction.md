@@ -102,7 +102,7 @@ Fin Si
 ``` 
 - **Remarque** :
 
-L'utilisation des **instructions conditionnelles imbriquées** est importante pour rendre les **algorithmes plus simples à écrire et à lire, plus optimisés** par rapport au **temps d'exécution plus performant de l'ordinateur**.
+- L'utilisation des **instructions conditionnelles imbriquées** est importante pour rendre les **algorithmes plus simples à écrire et à lire, plus optimisés** par rapport au **temps d'exécution plus performant de l'ordinateur**.
 
 
 ## Contact
@@ -119,6 +119,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDY5NDAwNywxODUwOTI1MDAzLC0zMz
+eyJoaXN0b3J5IjpbLTk3OTg5NzI3MCwxODUwOTI1MDAzLC0zMz
 E0NjkzNCw0NTkwMjg1MTksMTYxOTI2ODkzMl19
 -->
