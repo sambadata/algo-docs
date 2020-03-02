@@ -106,6 +106,20 @@ FinSi
 	- Avec les instructions conditionnelles, les **algorithmes sont plus performants** par rapport au temps d'exécution de l'ordinateur.
 	- Dans un **test imbriqué**, on peut regrouper **Sinon** et **Si** en **SinonSi** qui devient un seul bloc de test se terminant par un seul Fin Si
 
+- **Exemple** :
+Variables m, n en Entier
+Début
+Ecrire "Entrez deux nombres : "
+Lire m, n
+Si m = 0 OU n = 0 Alors
+   Ecrire "Le produit est nul"
+SinonSi (m < 0 ET n < 0) OU (m > 0 ET n > 0) Alors
+   Ecrire "Le produit est positif"
+Sinon
+Ecrire "Le produit est négatif"
+Finsi
+Fin
+
 
 ## Contact
 
@@ -121,5 +135,5 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkyMDU4NV19
+eyJoaXN0b3J5IjpbLTM2NzM0OTU3MSwtMTI0OTIwNTg1XX0=
 -->
