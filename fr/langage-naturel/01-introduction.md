@@ -112,8 +112,8 @@ Algorithme signe-multiplication
 Variables 
 m, n:entier
 Début
-   Ecrire "Saisir deux nombres : "
-   m <- Ecrire "Saisir premier nombre 1 : "
+   m <- Ecrire "Saisir nombre 1 : "
+   n <- Ecrire "Saisir nombre 2 : "
    Lire m, n
    Si (m = 0 OU n = 0) Alors
       Ecrire "Le signe de la multiplication est nul"
@@ -140,6 +140,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDE4NTA1Miw2OTM5NDY2NjYsNjA1Mj
+eyJoaXN0b3J5IjpbMTM3MjgzNzY2Niw2OTM5NDY2NjYsNjA1Mj
 MxNTA2LC0xMjQ5MjA1ODVdfQ==
 -->
