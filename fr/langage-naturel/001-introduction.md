@@ -104,7 +104,7 @@ Fin Si
 
 	- L'utilisation des **instructions conditionnelles imbriquées** est importante pour rendre les **algorithmes plus simples à lire et à écrire**
 	- Avec les **instructions conditionnelles**, les **algorithmes sont plus performants** par rapport au **temps d'exécution de l'ordinateur**.
-	- Dans les tests imbriqués, le Sinon et le Si peuvent être transformé en **SinonSi**; il s’agit d’un seul bloc de test, conclu par un seul FinSi
+	- Dans un **test imbriqué**, on regroupé **Sinon** et **Si** en **SinonSi** pour devenir un seul bloc de test, conclu par un seul FinSi
 
 
 ## Contact
@@ -121,6 +121,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzg1NzQxLDE4NTA5MjUwMDMsLTMzMT
-Q2OTM0LDQ1OTAyODUxOSwxNjE5MjY4OTMyXX0=
+eyJoaXN0b3J5IjpbLTczMzcyMjYwMiwxODUwOTI1MDAzLC0zMz
+E0NjkzNCw0NTkwMjg1MTksMTYxOTI2ODkzMl19
 -->
