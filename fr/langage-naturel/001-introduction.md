@@ -96,10 +96,8 @@ SinonSi condition alors
 		instructions 2
 SinonSi condition alors
 		instructions 3
-	Fin Si
-...
-Sinon
-	instructions finales
+SinonSi condition alors
+		instructions 4
 Fin Si
 ``` 
 - **Remarque** :
@@ -121,6 +119,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEyMDY2NzQsMTg1MDkyNTAwMywtMz
-MxNDY5MzQsNDU5MDI4NTE5LDE2MTkyNjg5MzJdfQ==
+eyJoaXN0b3J5IjpbMTAyNDY5NDAwNywxODUwOTI1MDAzLC0zMz
+E0NjkzNCw0NTkwMjg1MTksMTYxOTI2ODkzMl19
 -->
