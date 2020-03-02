@@ -31,7 +31,23 @@ Autrement dit, cela va permettre de définir au moment de la déclaration de la 
 ###  Type numérique
 
 (to do)
+
+
+
+## Contact
+
+Pour envoyer vos **commentaires** ou **suggestions** : samba.cisse.data[at]gmail.com
+
+## Copyright & Licence
+
+Copyright © [Samba Cissé](http://www.sambacisse.com)
+
+License: 
+![enter image description here](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+**CC BY-NC-SA**
+Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
+*This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NTU3MjY3LDE0MTg2Njc1NTMsLTIwND
-Y0NTk0MTQsLTExNzQ2MzU2MjVdfQ==
+eyJoaXN0b3J5IjpbMTc2MzY4ODg3MSw2MTc1NTcyNjcsMTQxOD
+Y2NzU1MywtMjA0NjQ1OTQxNCwtMTE3NDYzNTYyNV19
 -->
