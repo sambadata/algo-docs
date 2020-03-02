@@ -109,7 +109,7 @@ FinSi
 - **Exemple** :
 ```javascript 
 Algorithme signe-multiplication
-Variables m, n:entier
+Var m, n:entier
 Début
    m <- Ecrire "Saisir nombre 1 : "
    n <- Ecrire "Saisir nombre 2 : "
@@ -139,7 +139,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDAwOTE1NCwtNzM2Nzk2MDE2LDEzNz
-I4Mzc2NjYsNjkzOTQ2NjY2LDYwNTIzMTUwNiwtMTI0OTIwNTg1
-XX0=
+eyJoaXN0b3J5IjpbLTExNzc2MjQ0OTQsMTE3MDAwOTE1NCwtNz
+M2Nzk2MDE2LDEzNzI4Mzc2NjYsNjkzOTQ2NjY2LDYwNTIzMTUw
+NiwtMTI0OTIwNTg1XX0=
 -->
