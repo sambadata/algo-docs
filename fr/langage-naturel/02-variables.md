@@ -24,7 +24,9 @@ Dans un algorithme, avant d'écrire des instructions, on déclare  au début les
 
 Lorsqu’on déclare une variable, il faut aussi indiquer dans notre algorithme, le type de donnée que l'on souhaite stockée.
 
-Cela permet d'estimer correctement la  taille de la boîte selon le type de données enregistrées c'est à dire, en informatique, la taille de l’emplacement en mémoire de la variable sur le disque.
+Cela permet d'estimer correctement la  taille de la boîte selon le type de données qui y sont stockées. 
+
+Autrement dit, cela va permettre de définir au moment de la création de de la variable, la taille de l’emplacement en mémoire sur le disque.
 
 2.1 Types numériques classiques
 
@@ -303,6 +305,6 @@ En informatique, une variable possède à un moment donné une valeur et une seu
 
 La deuxième remarque concerne le signe de l’affectation. En algorithmique, comme on l’a vu, c’est le signe ←. Mais en pratique, la quasi totalité des langages emploient le signe égal. Et là, pour les débutants, la confusion avec les maths est également facile. En maths, A = B et B = A sont deux propositions strictement équivalentes. En informatique, absolument pas, puisque cela revient à écrire A ← B et B ← A, deux choses bien différentes. De même, A = A + 1, qui en mathématiques, constitue une équation sans solution, représente en programmation une action tout à fait licite (et de surcroît extrêmement courante). Donc, attention ! ! ! La meilleure des vaccinations contre cette confusion consiste à bien employer le signe ← en pseudo-code, signe qui a le mérite de ne pas laisser place à l’ambiguïté. Une fois acquis les bons réflexes avec ce signe, vous n’aurez plus aucune difficulté à passer au = des langages de programmation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3Mjg4MDIsMTQxODY2NzU1MywtMjA0Nj
-Q1OTQxNCwtMTE3NDYzNTYyNV19
+eyJoaXN0b3J5IjpbLTEyMjcyOTczNjAsMTQxODY2NzU1MywtMj
+A0NjQ1OTQxNCwtMTE3NDYzNTYyNV19
 -->
