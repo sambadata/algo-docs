@@ -81,7 +81,7 @@ Fin Si
 **Instruction avec deux conditions** 
 
 ```javascript 
-Si condition alors
+Si condition Alors
 	instructions 1
 Sinon
 	instructions 2
@@ -121,6 +121,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDE2NjAxMCwxODUwOTI1MDAzLC0zMz
+eyJoaXN0b3J5IjpbMTY1ODQzMTcxOCwxODUwOTI1MDAzLC0zMz
 E0NjkzNCw0NTkwMjg1MTksMTYxOTI2ODkzMl19
 -->
