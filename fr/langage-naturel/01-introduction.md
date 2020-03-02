@@ -109,8 +109,8 @@ FinSi
 - **Exemple** :
 ```javascript 
 // Algorithme complet
-Algorithme signe-multiplication
-Var m, n:entier
+Algorithme signe-multiplication   //nom de l'algorithme
+Var m, n:entier                   //   
 Début
    m <- Ecrire "Saisir nombre 1 : "
    n <- Ecrire "Saisir nombre 2 : "
@@ -140,7 +140,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQzNTE1MywyMDUxNTM5NjQ5LDUzNz
+eyJoaXN0b3J5IjpbMTAwOTcxMDc3MywyMDUxNTM5NjQ5LDUzNz
 czNTU2LC00MzY5OTkwNDEsMTE3MDAwOTE1NCwtNzM2Nzk2MDE2
 LDEzNzI4Mzc2NjYsNjkzOTQ2NjY2LDYwNTIzMTUwNiwtMTI0OT
 IwNTg1XX0=
