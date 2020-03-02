@@ -92,12 +92,9 @@ Fin Si
 ```javascript 
 Si condition alors
 	instructions 1
-Sinon 
-	Si condition alors
+SinonSi condition alors
 		instructions 2
-	Fin Si
-Sinon 
-	Si condition alors
+SinonSi condition alors
 		instructions 3
 	Fin Si
 ...
@@ -124,6 +121,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDkyNTAwMywtMzMxNDY5MzQsNDU5MD
-I4NTE5LDE2MTkyNjg5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTEyMDY2NzQsMTg1MDkyNTAwMywtMz
+MxNDY5MzQsNDU5MDI4NTE5LDE2MTkyNjg5MzJdfQ==
 -->
