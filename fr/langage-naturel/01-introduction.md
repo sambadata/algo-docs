@@ -116,9 +116,9 @@ Lire m, n
 Si (m = 0 OU n = 0) Alors
    Ecrire "Le produit de la multiplication est nul"
 SinonSi (m < 0 ET n < 0) OU (m > 0 ET n > 0) Alors
-   Ecrire "Le produit de la multiplicationest positif"
+   Ecrire "Le produit de la multiplication est positif"
 Sinon
-Ecrire "Le produit est négatif"
+   Ecrire "Le produit de la multiplication est négatif"
 FinSi
 Fin
 ```
@@ -138,6 +138,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NTIzOCw2OTM5NDY2NjYsNjA1MjMxNT
-A2LC0xMjQ5MjA1ODVdfQ==
+eyJoaXN0b3J5IjpbLTk2MjE2MDQ2MCw2OTM5NDY2NjYsNjA1Mj
+MxNTA2LC0xMjQ5MjA1ODVdfQ==
 -->
