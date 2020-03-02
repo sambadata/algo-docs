@@ -104,7 +104,7 @@ FinSi
 
 	- L'utilisation des **instructions conditionnelles imbriquées** est importante pour rendre les **algorithmes plus simples à lire et à écrire**
 	- Avec les instructions conditionnelles, les **algorithmes sont plus performants** par rapport au temps d'exécution de l'ordinateur.
-	- Dans un **test imbriqué**, on peut regrouper **Sinon** et **Si** en **SinonSi** qui devient un seul bloc de test se terminant par un seul **FinSi** à la fin du test.
+	- Dans un **test imbriqué**, on peut regrouper **Sinon** et **Si** en **SinonSi** qui devient un seul bloc de tests se terminant par un seul **FinSi** à la fin du test.
 
 - **Exemple** :
 ```javascript 
@@ -140,8 +140,8 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NTkxNTY4LDIwNTE1Mzk2NDksNTM3Nz
-M1NTYsLTQzNjk5OTA0MSwxMTcwMDA5MTU0LC03MzY3OTYwMTYs
-MTM3MjgzNzY2Niw2OTM5NDY2NjYsNjA1MjMxNTA2LC0xMjQ5Mj
-A1ODVdfQ==
+eyJoaXN0b3J5IjpbLTY0MzYzODA3LDI5NjU5MTU2OCwyMDUxNT
+M5NjQ5LDUzNzczNTU2LC00MzY5OTkwNDEsMTE3MDAwOTE1NCwt
+NzM2Nzk2MDE2LDEzNzI4Mzc2NjYsNjkzOTQ2NjY2LDYwNTIzMT
+UwNiwtMTI0OTIwNTg1XX0=
 -->
