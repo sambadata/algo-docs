@@ -100,7 +100,7 @@ Sinon
 	Si condition alors
 		instructions 3
 	Fin Si
-etc...
+...
 Sinon
 	instructions finales
 Fin Si
@@ -124,6 +124,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzI3NzY2OSwtMzMxNDY5MzQsNDU5MD
+eyJoaXN0b3J5IjpbMTg1MDkyNTAwMywtMzMxNDY5MzQsNDU5MD
 I4NTE5LDE2MTkyNjg5MzJdfQ==
 -->
