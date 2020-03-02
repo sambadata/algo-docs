@@ -127,7 +127,7 @@ Fin
 
 ## Contact
 
-Pour envoyer vos commentaires ou suggestions : samba.cisse.data@gmail.com
+Pour envoyer vos commentaires ou suggestions : samba.cisse.data[at] gmail.com
 
 ## Copyright & Licence
 
@@ -139,7 +139,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjk5OTA0MSwxMTcwMDA5MTU0LC03Mz
-Y3OTYwMTYsMTM3MjgzNzY2Niw2OTM5NDY2NjYsNjA1MjMxNTA2
-LC0xMjQ5MjA1ODVdfQ==
+eyJoaXN0b3J5IjpbLTE1OTkzNDE3MTIsLTQzNjk5OTA0MSwxMT
+cwMDA5MTU0LC03MzY3OTYwMTYsMTM3MjgzNzY2Niw2OTM5NDY2
+NjYsNjA1MjMxNTA2LC0xMjQ5MjA1ODVdfQ==
 -->
