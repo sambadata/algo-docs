@@ -115,7 +115,7 @@ Début
    m <- Ecrire "Saisir nombre 1 : "
    n <- Ecrire "Saisir nombre 2 : "
    Lire m, n
-   Si (m = 0 OU n = 0) Alors       // test imbriqué
+   Si (m = 0 OU n = 0) Alors     // test imbriqué
       Ecrire "Le signe de la multiplication est nul"
    SinonSi (m < 0 ET n < 0) OU (m > 0 ET n > 0) Alors
       Ecrire "Le signe de la multiplication est plus"
@@ -140,8 +140,8 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ4Nzc5MSwyMDUxNTM5NjQ5LDUzNz
-czNTU2LC00MzY5OTkwNDEsMTE3MDAwOTE1NCwtNzM2Nzk2MDE2
-LDEzNzI4Mzc2NjYsNjkzOTQ2NjY2LDYwNTIzMTUwNiwtMTI0OT
-IwNTg1XX0=
+eyJoaXN0b3J5IjpbLTE2Mjc1Nzk1NjcsMjA1MTUzOTY0OSw1Mz
+c3MzU1NiwtNDM2OTk5MDQxLDExNzAwMDkxNTQsLTczNjc5NjAx
+NiwxMzcyODM3NjY2LDY5Mzk0NjY2Niw2MDUyMzE1MDYsLTEyND
+kyMDU4NV19
 -->
