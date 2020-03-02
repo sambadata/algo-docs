@@ -8,7 +8,10 @@ On peut comparer une variable à une boîte que l'on reconnaît grâce à une é
 ## Déclaration de variable
 
 En reprenant l'exemple de la boite, déclarer une variable consiste à créer une boite et coller une étiquette dessus.
-On doit toujoju
+
+On doit toujours déclarer une variable avant de pouvoir l'utiliser.
+
+Dans un algorithme, on réalise cette opération a 
 
 La première chose à faire avant de pouvoir utiliser une variable est de créer la boîte et de lui coller une étiquette. Ceci se fait tout au début de l’algorithme, avant même les instructions proprement dites. C’est ce qu’on appelle la  déclaration des variables.
 
@@ -295,5 +298,6 @@ En informatique, une variable possède à un moment donné une valeur et une seu
 
 La deuxième remarque concerne le signe de l’affectation. En algorithmique, comme on l’a vu, c’est le signe ←. Mais en pratique, la quasi totalité des langages emploient le signe égal. Et là, pour les débutants, la confusion avec les maths est également facile. En maths, A = B et B = A sont deux propositions strictement équivalentes. En informatique, absolument pas, puisque cela revient à écrire A ← B et B ← A, deux choses bien différentes. De même, A = A + 1, qui en mathématiques, constitue une équation sans solution, représente en programmation une action tout à fait licite (et de surcroît extrêmement courante). Donc, attention ! ! ! La meilleure des vaccinations contre cette confusion consiste à bien employer le signe ← en pseudo-code, signe qui a le mérite de ne pas laisser place à l’ambiguïté. Une fois acquis les bons réflexes avec ce signe, vous n’aurez plus aucune difficulté à passer au = des langages de programmation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDE5NDkxNCwtMTE3NDYzNTYyNV19
+eyJoaXN0b3J5IjpbLTEwMTUzOTM2NjAsLTExNzQ2MzU2MjVdfQ
+==
 -->
