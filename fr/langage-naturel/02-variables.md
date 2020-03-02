@@ -7,7 +7,7 @@
 
 ## Déclaration de variable
 
-La première chose à faire avant de pouvoir utiliser une variable est de créer la boîte et de lui coller une étiquette. Ceci se fait tout au début de l’algorithme, avant même les instructions proprement dites. C’est ce qu’on appelle la  déclaration des variables. C’est un genre de déclaration certes moins romantique qu’une déclaration d’amour, mais d’un autre côté moins désagréable qu’une déclaration d’impôts.
+En reprenant l'exemple de la boite, La première chose à faire avant de pouvoir utiliser une variable est de créer la boîte et de lui coller une étiquette. Ceci se fait tout au début de l’algorithme, avant même les instructions proprement dites. C’est ce qu’on appelle la  déclaration des variables.
 
 Le  nom  de la variable (l’étiquette de la boîte) obéit à des impératifs changeant selon les langages. Toutefois, une règle absolue est qu’un nom de variable peut comporter des lettres et des chiffres, mais qu’il exclut la plupart des signes de ponctuation, en particulier les espaces. Un nom de variable correct commence également impérativement par une lettre. Quant au nombre maximal de signes pour un nom de variable, il dépend du langage utilisé.
 
@@ -292,5 +292,6 @@ En informatique, une variable possède à un moment donné une valeur et une seu
 
 La deuxième remarque concerne le signe de l’affectation. En algorithmique, comme on l’a vu, c’est le signe ←. Mais en pratique, la quasi totalité des langages emploient le signe égal. Et là, pour les débutants, la confusion avec les maths est également facile. En maths, A = B et B = A sont deux propositions strictement équivalentes. En informatique, absolument pas, puisque cela revient à écrire A ← B et B ← A, deux choses bien différentes. De même, A = A + 1, qui en mathématiques, constitue une équation sans solution, représente en programmation une action tout à fait licite (et de surcroît extrêmement courante). Donc, attention ! ! ! La meilleure des vaccinations contre cette confusion consiste à bien employer le signe ← en pseudo-code, signe qui a le mérite de ne pas laisser place à l’ambiguïté. Une fois acquis les bons réflexes avec ce signe, vous n’aurez plus aucune difficulté à passer au = des langages de programmation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NjY5NTc5LC0xMTc0NjM1NjI1XX0=
+eyJoaXN0b3J5IjpbLTE0NDU0OTAwNjgsLTExNzQ2MzU2MjVdfQ
+==
 -->
