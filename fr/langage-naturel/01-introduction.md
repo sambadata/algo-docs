@@ -109,13 +109,13 @@ FinSi
 - **Exemple** :
 ```javascript 
 // Algorithme complet
-Algorithme signe-multiplication   //nom de l'algorithme
+Algorithme signe-multiplication //en-tête : nom de l'algorithme
 Var m, n:entier  // déclaration des variables avec leur type   
 Début
    m <- Ecrire "Saisir nombre 1 : "
    n <- Ecrire "Saisir nombre 2 : "
    Lire m, n
-   Si (m = 0 OU n = 0) Alors
+   Si (m = 0 OU n = 0) Alors       // test imbriqué
       Ecrire "Le signe de la multiplication est nul"
    SinonSi (m < 0 ET n < 0) OU (m > 0 ET n > 0) Alors
       Ecrire "Le signe de la multiplication est plus"
@@ -140,8 +140,8 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyODEyMTMsMjA1MTUzOTY0OSw1Mzc3Mz
-U1NiwtNDM2OTk5MDQxLDExNzAwMDkxNTQsLTczNjc5NjAxNiwx
-MzcyODM3NjY2LDY5Mzk0NjY2Niw2MDUyMzE1MDYsLTEyNDkyMD
-U4NV19
+eyJoaXN0b3J5IjpbMTI1MjU1MTUxNiwyMDUxNTM5NjQ5LDUzNz
+czNTU2LC00MzY5OTkwNDEsMTE3MDAwOTE1NCwtNzM2Nzk2MDE2
+LDEzNzI4Mzc2NjYsNjkzOTQ2NjY2LDYwNTIzMTUwNiwtMTI0OT
+IwNTg1XX0=
 -->
