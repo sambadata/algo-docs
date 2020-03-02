@@ -18,7 +18,7 @@ Une instruction regroupe une action ou une série d'actions créée à partir de
 
 ### Langage naturel
 
-Les algorithmes peuvent être écrits en *langage naturel* (anglais, français, etc.) c'est à dire compréhensible facilement par une personne non experte en programmation (client, lecteur d'un article, etc.). 
+Les algorithmes peuvent être écrits en langage naturel (anglais, français, etc.) c'est à dire compréhensible facilement par une personne non experte en programmation (client, lecteur d'un article, etc.). 
 
 Quand on écrit de l'algorithmique en langage naturel, on ne dépend pas de la syntaxe d'un langage informatique comme Python, par exemple. 
 
@@ -26,7 +26,7 @@ En écrivant d'abord nos algorithmes en langage naturel, on peut mieux comprendr
 
 ### Langage informatique
 
-Les algorithmes peuvent être également écrits en *langage informatique* c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter (comprendre).
+Les algorithmes peuvent être également écrits en langage informatique c'est à dire dans un langage spécialement créés pour les ordinateurs afin qu'ils puissent les interpréter (comprendre).
 
 ### Programmation
 
@@ -139,6 +139,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc5NjAxNiwxMzcyODM3NjY2LDY5Mz
-k0NjY2Niw2MDUyMzE1MDYsLTEyNDkyMDU4NV19
+eyJoaXN0b3J5IjpbMTE3MDAwOTE1NCwtNzM2Nzk2MDE2LDEzNz
+I4Mzc2NjYsNjkzOTQ2NjY2LDYwNTIzMTUwNiwtMTI0OTIwNTg1
+XX0=
 -->
