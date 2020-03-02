@@ -108,6 +108,7 @@ FinSi
 
 - **Exemple** :
 ```javascript 
+Algorithme signe-multiplication
 Variables 
 m:entier, n:entier
 Début
@@ -138,6 +139,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQyMjg2MzIsNjkzOTQ2NjY2LDYwNT
-IzMTUwNiwtMTI0OTIwNTg1XX0=
+eyJoaXN0b3J5IjpbMTEwMjc4NTk1OSw2OTM5NDY2NjYsNjA1Mj
+MxNTA2LC0xMjQ5MjA1ODVdfQ==
 -->
