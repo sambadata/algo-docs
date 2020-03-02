@@ -4,7 +4,7 @@
 
 ### Algorithme
 
-Un algorithme est une série ordonnée d’*instructions* élémentaire pour aboutir à un résultat final donné répondant à un problème.
+Un algorithme est une série ordonnée d’*instructions* élémentaires pour aboutir à un résultat final donné répondant à un problème.
 
 ### Instruction
 
@@ -139,7 +139,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU5MzQ4NjAsNTM3NzM1NTYsLTQzNj
-k5OTA0MSwxMTcwMDA5MTU0LC03MzY3OTYwMTYsMTM3MjgzNzY2
-Niw2OTM5NDY2NjYsNjA1MjMxNTA2LC0xMjQ5MjA1ODVdfQ==
+eyJoaXN0b3J5IjpbMjA1MTUzOTY0OSw1Mzc3MzU1NiwtNDM2OT
+k5MDQxLDExNzAwMDkxNTQsLTczNjc5NjAxNiwxMzcyODM3NjY2
+LDY5Mzk0NjY2Niw2MDUyMzE1MDYsLTEyNDkyMDU4NV19
 -->
