@@ -75,7 +75,7 @@ prenom <- John
 ```javascript 
 Si condition Alors
 	instructions
-Fin Si
+FinSi
 ```   
 
 **Instruction avec deux conditions** 
@@ -85,7 +85,7 @@ Si condition Alors
 	instructions 1
 Sinon
 	instructions 2
-Fin Si
+FinSi
 ``` 
 **Instruction avec plusieurs conditions** 
 
@@ -93,12 +93,12 @@ Fin Si
 Si condition Alors
 	instructions 1
 SinonSi condition Alors
-		instructions 2
+	instructions 2
 SinonSi condition Alors
-		instructions 3
+	instructions 3
 SinonSi condition Alors
-		instructions 4
-Fin Si
+	instructions 4
+FinSi
 ``` 
 - **Remarque** :
 
@@ -121,6 +121,7 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTE2ODI4NywxODUwOTI1MDAzLC0zMz
-E0NjkzNCw0NTkwMjg1MTksMTYxOTI2ODkzMl19
+eyJoaXN0b3J5IjpbMTY0MDA0NzQxMywtNDk1MTY4Mjg3LDE4NT
+A5MjUwMDMsLTMzMTQ2OTM0LDQ1OTAyODUxOSwxNjE5MjY4OTMy
+XX0=
 -->
