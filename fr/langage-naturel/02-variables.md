@@ -1,9 +1,9 @@
   
-1. A quoi servent les variables ?
+# Les variables
 
-Lorsque l'on programme, on a souvent besoin de stocker provisoirement des valeurs. Il peut s’agir de données issues du disque dur, fournies par l’utilisateur (frappées au clavier), ou que sais-je encore. Il peut aussi s’agir de résultats obtenus par le programme, intermédiaires ou définitifs. Ces données peuvent être de plusieurs types (on en reparlera) : elles peuvent être des nombres, du texte, etc. Toujours est-il que dès que l’on a besoin de stocker une information au cours d’un programme, on utilise une  variable.
+Lorsque l'on a besoin de stocker provisoirement des valeurs dans un programme, on utilise une  variable.
 
-Pour employer une image, une variable est une  boîte, que le programme (l’ordinateur) va repérer par une  étiquette. Pour avoir accès au contenu de la boîte, il suffit de la désigner par son étiquette.
+On peut comparer une variable à une boîte que repérer par une  étiquette. Pour avoir accès au contenu de la boîte, il suffit de la désigner par son étiquette.
 
 En réalité, dans la mémoire vive de l’ordinateur, il n’y a bien sûr pas une vraie boîte, et pas davantage de vraie étiquette collée dessus (j’avais bien prévenu que la boîte et l’étiquette, c’était une image). Dans l’ordinateur, physiquement, il y a un emplacement de mémoire, repéré par une adresse binaire. Si on programmait dans un langage directement compréhensible par la machine, on devrait se fader de désigner nos données par de superbes 10011001 et autres 01001001 (enchanté !). Mauvaise nouvelle : de tels langages existent ! Ils portent le doux nom d’assembleur. Bonne nouvelle : ce ne sont pas les seuls langages disponibles.
 
@@ -296,6 +296,6 @@ En informatique, une variable possède à un moment donné une valeur et une seu
 
 La deuxième remarque concerne le signe de l’affectation. En algorithmique, comme on l’a vu, c’est le signe ←. Mais en pratique, la quasi totalité des langages emploient le signe égal. Et là, pour les débutants, la confusion avec les maths est également facile. En maths, A = B et B = A sont deux propositions strictement équivalentes. En informatique, absolument pas, puisque cela revient à écrire A ← B et B ← A, deux choses bien différentes. De même, A = A + 1, qui en mathématiques, constitue une équation sans solution, représente en programmation une action tout à fait licite (et de surcroît extrêmement courante). Donc, attention ! ! ! La meilleure des vaccinations contre cette confusion consiste à bien employer le signe ← en pseudo-code, signe qui a le mérite de ne pas laisser place à l’ambiguïté. Une fois acquis les bons réflexes avec ce signe, vous n’aurez plus aucune difficulté à passer au = des langages de programmation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcwNDQ3NTUsLTExNzQ2MzU2MjVdfQ
+eyJoaXN0b3J5IjpbLTE3NTU5Njg2MjksLTExNzQ2MzU2MjVdfQ
 ==
 -->
