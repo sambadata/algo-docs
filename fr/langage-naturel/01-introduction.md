@@ -110,7 +110,7 @@ FinSi
 ```javascript 
 Algorithme signe-multiplication
 Variables 
-m:entier, n:entier
+m,n:entier
 Début
    Ecrire "Saisir deux nombres : "
    Lire m, n
@@ -139,6 +139,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTMyODExNiw2OTM5NDY2NjYsNjA1Mj
+eyJoaXN0b3J5IjpbMTI5MDc3NDcxMyw2OTM5NDY2NjYsNjA1Mj
 MxNTA2LC0xMjQ5MjA1ODVdfQ==
 -->
