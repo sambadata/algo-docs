@@ -73,7 +73,7 @@ prenom <- John
 
 **Instruction avec une condition** 
 ```javascript 
-Si condition alors
+Si condition Alors
 	instructions
 Fin Si
 ```   
@@ -90,13 +90,13 @@ Fin Si
 **Instruction avec plusieurs conditions** 
 
 ```javascript 
-Si condition alors
+Si condition Alors
 	instructions 1
-SinonSi condition alors
+SinonSi condition Alors
 		instructions 2
-SinonSi condition alors
+SinonSi condition Alors
 		instructions 3
-SinonSi condition alors
+SinonSi condition Alors
 		instructions 4
 Fin Si
 ``` 
@@ -104,7 +104,7 @@ Fin Si
 
 	- L'utilisation des **instructions conditionnelles imbriquées** est importante pour rendre les **algorithmes plus simples à lire et à écrire**
 	- Avec les **instructions conditionnelles**, les **algorithmes sont plus performants** par rapport au **temps d'exécution de l'ordinateur**.
-	- Dans un **test imbriqué**, on peut regrouper **Sinon** et **Si** en **SinonSi** qui devient un seul bloc de test qui se terminant par un seul Fin Si
+	- Dans un **test imbriqué**, on peut regrouper **Sinon** et **Si** en **SinonSi** qui devient un seul bloc de test se terminant par un seul Fin Si
 
 
 ## Contact
@@ -121,6 +121,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODQzMTcxOCwxODUwOTI1MDAzLC0zMz
+eyJoaXN0b3J5IjpbLTQ5NTE2ODI4NywxODUwOTI1MDAzLC0zMz
 E0NjkzNCw0NTkwMjg1MTksMTYxOTI2ODkzMl19
 -->
