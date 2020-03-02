@@ -30,8 +30,8 @@ Autrement dit, cela va permettre de définir au moment de la déclaration de la 
 
 ###  Type numérique
 
-
+(to do)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgyNzMwMzcsMTQxODY2NzU1MywtMj
+eyJoaXN0b3J5IjpbLTEyNjkxMzMwMjQsMTQxODY2NzU1MywtMj
 A0NjQ1OTQxNCwtMTE3NDYzNTYyNV19
 -->
