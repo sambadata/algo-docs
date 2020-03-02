@@ -108,7 +108,7 @@ FinSi
 
 - **Exemple** :
 ```javascript 
-Variables m:TypeEntier, n:Entier
+variables: m:entier, n:entier
 Début
 Ecrire "Entrez deux nombres : "
 Lire m, n
@@ -137,6 +137,6 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDE0OCw2MDUyMzE1MDYsLTEyNDkyMD
-U4NV19
+eyJoaXN0b3J5IjpbLTIwNTg0ODg2ODYsNjA1MjMxNTA2LC0xMj
+Q5MjA1ODVdfQ==
 -->
