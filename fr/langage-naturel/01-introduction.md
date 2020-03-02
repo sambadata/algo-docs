@@ -108,7 +108,7 @@ FinSi
 
 - **Exemple** :
 ```javascript 
-// Algorithme complet
+// Algorithme complet en langage naturel
 Algorithme signe-multiplication   // nom de l'algorithme
 Var m, n:entier  // déclaration des variables avec leur type   
 Début
@@ -140,8 +140,8 @@ License:
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
 *This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc1Nzk1NjcsMjA1MTUzOTY0OSw1Mz
-c3MzU1NiwtNDM2OTk5MDQxLDExNzAwMDkxNTQsLTczNjc5NjAx
-NiwxMzcyODM3NjY2LDY5Mzk0NjY2Niw2MDUyMzE1MDYsLTEyND
-kyMDU4NV19
+eyJoaXN0b3J5IjpbMjk2NTkxNTY4LDIwNTE1Mzk2NDksNTM3Nz
+M1NTYsLTQzNjk5OTA0MSwxMTcwMDA5MTU0LC03MzY3OTYwMTYs
+MTM3MjgzNzY2Niw2OTM5NDY2NjYsNjA1MjMxNTA2LC0xMjQ5Mj
+A1ODVdfQ==
 -->
